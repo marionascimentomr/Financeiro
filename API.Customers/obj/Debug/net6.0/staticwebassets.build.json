@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "H+3Ec1qul7izXB64d1D+SMgpriZ64qCZxw+Q/Ou5TSU=",
+  "Source": "API.Customers",
+  "BasePath": "_content/API.Customers",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Projetos\\Pay\\Pay\\Pay.Api\\Pay.Api.csproj",
+      "Version": 2,
+      "Source": "Pay.Api",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
